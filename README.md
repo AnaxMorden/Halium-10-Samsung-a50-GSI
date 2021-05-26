@@ -16,7 +16,7 @@ It is only for test purposes and needs time to port!
 ## Progress:
 trying to fix issues with manifests
 
-# Want to help or have a question?
+### Want to help or have a question?
 * Matrix: @anaxmorden:matrix.org (may be slow to be response!)
 * Discord: Anax#1997
 
