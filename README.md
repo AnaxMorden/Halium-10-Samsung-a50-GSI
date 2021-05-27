@@ -7,19 +7,30 @@ I will also write the errors in this repo so you can help me fix them
 
 It is only for test purposes and needs time to port!
 
-
 ## State : unfinished
 
-### Progress:
-trying to fix issues with manifests
+## Overwiew
 
-## Wiki for more
-[ See Wikis Tab ](https://github.com/AnaxMorden/Halium-10-Samsung-a50/wiki)
+Progress:
+> [Watch Project](https://github.com/users/AnaxMorden/projects/2)
+
+Errors: 
+> [Go to Site](https://github.com/AnaxMorden/Halium-10-Samsung-a50/wiki/errors)
+
+Logs
+> [Go to Log Tab](https://github.com/AnaxMorden/Halium-10-Samsung-a50/wiki/latest-Log)
+
+My Infos
+> [Make Info](https://github.com/AnaxMorden/Halium-10-Samsung-a50/wiki/Make-Infos)
 
 ## Halium:
 [Halium Docs](https://docs.halium.org/en/latest/)
 
 [Halium Github](https://github.com/Halium)
+
+## Credits
+[ Go to Credits](https://github.com/AnaxMorden/Halium-10-Samsung-a50/wiki/Credits)
+
 
 
 #### Want to help or have a question?
