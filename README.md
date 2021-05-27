@@ -1,5 +1,5 @@
 # Halium-10-Samsung-a50
-This is the page for the samsung A50 halium port
+This is the page for the samsung A50 halium port that includes all errors
 
 In this Repo i will document all requirements and the working state
 
