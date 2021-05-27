@@ -17,10 +17,13 @@ Progress:
 Errors: 
 > [Go to Site](https://github.com/AnaxMorden/Halium-10-Samsung-a50/wiki/errors)
 
-Logs
+Logs:
 > [Go to Log Tab](https://github.com/AnaxMorden/Halium-10-Samsung-a50/wiki/latest-Log)
 
-My Infos
+Discuss with me:
+> [Discuss Tab](https://github.com/AnaxMorden/Halium-10-Samsung-a50/discussions)
+
+My Infos:
 > [Make Info](https://github.com/AnaxMorden/Halium-10-Samsung-a50/wiki/Make-Infos)
 
 ## Halium:
