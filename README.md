@@ -7,18 +7,20 @@ I will also write the errors in this repo so you can help me fix them
 
 It is only for test purposes and needs time to port!
 
+
+## State : unfinished
+
+### Progress:
+trying to fix issues with manifests
+
+## Wiki for more
+[ See Wikis Tab ](https://github.com/AnaxMorden/Halium-10-Samsung-a50/wiki)
+
 ## Halium:
 [Halium Docs](https://docs.halium.org/en/latest/)
 
 [Halium Github](https://github.com/Halium)
 
-## State : unfinished
-
-## Wiki for more
-[ See Wikis Tab ](https://github.com/AnaxMorden/Halium-10-Samsung-a50/wiki)
-
-### Progress:
-trying to fix issues with manifests
 
 #### Want to help or have a question?
 * Matrix: @anaxmorden:matrix.org (may be slow to be response!)
