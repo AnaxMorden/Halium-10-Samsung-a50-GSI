@@ -15,15 +15,18 @@ Progress:
 > [Watch Project](https://github.com/users/AnaxMorden/projects/2)
 
 Errors: 
-> [Go to Site](https://github.com/AnaxMorden/Halium-10-Samsung-a50/wiki/errors)
+> [Go to Issues](https://github.com/AnaxMorden/Halium-10-Samsung-a50/issues)
+>
+> [Watch Project](https://github.com/users/AnaxMorden/projects/2)
+for Errors
 
-Logs:
+Logs
 > [Go to Log Tab](https://github.com/AnaxMorden/Halium-10-Samsung-a50/wiki/latest-Log)
 
 Discuss with me:
 > [Discuss Tab](https://github.com/AnaxMorden/Halium-10-Samsung-a50/discussions)
 
-My Infos:
+My Infos
 > [Make Info](https://github.com/AnaxMorden/Halium-10-Samsung-a50/wiki/Make-Infos)
 
 ## Halium:
@@ -41,3 +44,4 @@ My Infos:
 * Discord: Anax#1997
 
 Site by AnaxMorden
+
