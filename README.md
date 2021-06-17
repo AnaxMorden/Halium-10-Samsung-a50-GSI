@@ -7,7 +7,8 @@ I will also write the errors in this repo so you can help me fix them
 
 It is only for test purposes and needs time to port!
 
-## State : unfinished
+## State : unfinished ( ended working on it )
+## State GSI Kernel: unfinished
 
 ## Overwiew
 
