@@ -1,4 +1,4 @@
-# Halium-10-Samsung-a50
+# Halium-10-Samsung-a50 ( Project stopped )
 This is the page for the samsung A50 halium port
 
 In this Repo i will document all requirements and the working state
